@@ -8,6 +8,7 @@
   * @Description
   * STM32G474RE的个人用模板程序,含部分基础功能及测试
   *
+  * @IO
   * 硬件串口            PC4 -> USART1_TX  PC5 -> USART1_RX
   * OLED显示(软件IIC)   PB8 -> SDA        PB9 -> SCL
   * 按键中断            PC13-> KEY
